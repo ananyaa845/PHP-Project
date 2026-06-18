@@ -1,0 +1,3 @@
+.env
+.DS_Store  #mac system file
+Thumbs.db   #windows system file
