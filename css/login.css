@@ -1,5 +1,5 @@
 /* Form */
- .form-popup{
+ .form{
     position:fixed;
     top:50%;
     left:50%;
@@ -10,7 +10,7 @@
     transform: translate(-50%,-50%);
     display:none;
 }
-.form-popup .form-box{
+.form .form-box{
     display:flex;
 } 
 
