@@ -8,10 +8,10 @@
 
             <div class="nav-menu">
                 <ul class="links">
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="about.html">About Us</a></li>
-                    <li><a href="service.html">Our Services</a></li>
-                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="about.php">About Us</a></li>
+                    <li><a href="service.php">Our Services</a></li>
+                    <li><a href="contact.php">Contact</a></li>
                 </ul>
                 <a class="login-btn" href="login.html">Log in</a>
             </div>
